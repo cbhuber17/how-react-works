@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://cbhuber17.github.io/how-react-works"
+  "homepage": "http://cbhuber17.github.io/how-react-works",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
